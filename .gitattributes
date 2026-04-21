@@ -1,5 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
-=======
 data/raw/student_digital_behaviour_data.csv filter=lfs diff=lfs merge=lfs -text
->>>>>>> 2cfd3f05cfa577a2a57f9bf612ac084d6ba3b975
